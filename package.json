@@ -1,0 +1,25 @@
+{
+  "name": "LIRI-node-app-",
+  "version": "1.0.0",
+  "description": "A Language interpretation and Recognition Interface. LIRI is able to search Spotify for music, find bands in town performing live, and search movies from OMDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielp28/LIRI-node-app-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielp28/LIRI-node-app-/issues"
+  },
+  "homepage": "https://github.com/danielp28/LIRI-node-app-#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "moment": "^2.24.0"
+  }
+}
